@@ -3,7 +3,7 @@
 ###
 
 <h2 align="center">I'm Badr Elsayed</h2>
-<h6 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h6>
+<h5 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h5>
 
 <br clear="both">
 
