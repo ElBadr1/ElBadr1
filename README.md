@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="center">Front-End Developer | ASP.NET Learner | Technical Support</p>
 
 ###
