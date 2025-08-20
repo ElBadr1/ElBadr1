@@ -3,12 +3,8 @@
 ###
 
 <h2 align="center">I'm Badr Elsayed</h2>
-
-###
-
 <p align="center">Front-End Developer | ASP.NET Learner | Technical Support</p>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ElBadr1.ElBadr1&"  />
