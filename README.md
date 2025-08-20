@@ -1,8 +1,8 @@
 # <p align="center">Hey 👋 What's up?</p>
 
 
-<h2 align="center">I'm Badr Elsayed</h2>
-<h4 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h4>
+<h1 align="center">I'm Badr Elsayed</h1>
+<h2 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h2>
 
 <br clear="both">
 
