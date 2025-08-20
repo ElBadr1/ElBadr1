@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-###
+##
 
 <h2 align="center">I'm Badr Elsayed</h2>
 <h4 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h4>
@@ -19,7 +19,7 @@
   <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
 
-###
+##
 
 <h2 align="left">About me</h2>
 
@@ -27,7 +27,7 @@
 
 <p align="left">📚 I'm currently learning Full Stack Development<br>   - 🚀 Front-End: ECMAScript (JavaScript) & React  <br>   - ⚙️ Back-End (upcoming): ASP.NET <br>🎯 Goals:  <br>   - 🌟 Become a professional Front-End Developer <br>   - 💡 Work on innovative and user-centric projects <br>   - 🤝 Collaborate with talented teams to grow and share knowledge<br>🎲 Fun fact: I once fixed a bug by taking a nap first 😅</p>
 
-###
+##
 
 <h3 align="left">📩Contact with me :</h3>
 
@@ -53,7 +53,7 @@
   </a>
 </div>
 
-###
+##
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
