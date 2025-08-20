@@ -1,4 +1,4 @@
-### <p align="center">Hey 👋 What's up?</p>
+# <p align="center">Hey 👋 What's up?</p>
 
 ##
 
