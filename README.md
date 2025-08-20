@@ -1,6 +1,5 @@
 # <p align="center">Hey 👋 What's up?</p>
 
-##
 
 <h2 align="center">I'm Badr Elsayed</h2>
 <h4 align="center">Technical Support | Front-End Developer | ASP.NET Learner </h4>
